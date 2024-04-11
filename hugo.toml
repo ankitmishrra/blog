@@ -1,4 +1,4 @@
-baseurl = "https://ankitmishrra.github.io/blog/"
+baseurl = "https://ankitmishrra.github.io/"
 title = "Ankit Mishra blogs"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page

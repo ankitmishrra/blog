@@ -19,6 +19,4 @@ There are two options:
 
 I choose option 2. 
 
-How do I do that?
-I am still figuring that
 
