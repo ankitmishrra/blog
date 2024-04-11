@@ -1,7 +1,7 @@
 +++
 title = 'On a rock somewhere'
 date = 2024-04-07T12:43:57+05:30
-draft = true
+draft = false
 #tag = [“personal”]
 featured_image = "/images/rock_somewhere.jpeg"
 +++
@@ -17,6 +17,6 @@ There are two options:
 1. Go with flow, witness the magic happening around, appreciate it and leave.
 2. Create a flow, be the magic, live the life designed by you and leave.
 
-I choose option 2. 
+I choose option 2!
 
 
