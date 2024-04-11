@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ankit Mishra blogs</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Ankit Mishra blogs</description>
+    <title>Articles on Ankit Mishra blogs</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Articles on Ankit Mishra blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2024 12:43:57 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On a rock somewhere</title>
-      <link>//localhost:1313/posts/my-fist-post/</link>
+      <link>http://localhost:1313/posts/my-fist-post/</link>
       <pubDate>Sun, 07 Apr 2024 12:43:57 +0530</pubDate>
-      <guid>//localhost:1313/posts/my-fist-post/</guid>
+      <guid>http://localhost:1313/posts/my-fist-post/</guid>
       <description>I am on a rock somewhere, it&amp;rsquo;s the only one I know, but I know it well. - Jacob Collier&#xA;It sometimes completely blows my mind when I try to think of the scale of the universe. The famous image of earth called &amp;ldquo;The Pale blue dot&amp;rdquo; taken of voyager 1 from beyond the saturn, first gave me a glimpse of how tiny we are. Then there are images from hubble and JWST, so astonishing that they force you to think about enormity of the known universe.</description>
     </item>
   </channel>
